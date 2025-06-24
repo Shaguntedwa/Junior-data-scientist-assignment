@@ -1,0 +1,6 @@
+classification,Close Short,Open Long,Open Short,Buy,Close Long,Sell,Spot Dust Conversion,Long > Short
+Extreme Fear,16,50,6,0,0,0,0,0
+Extreme Greed,0,40,185,197,47,59,1,0
+Fear,677,1245,376,42,1243,0,0,1
+Greed,59,117,416,44,76,0,0,0
+Neutral,0,235,24,292,166,464,0,0
